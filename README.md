@@ -1,5 +1,6 @@
 # Type of Graphs
 -This project demonstrates important statistical distributions and data visualization techniques using Python in Google Colab.
+
 -The notebook focuses on explaining how different statistical concepts can be understood through graphical representation and visual analysis.
 -It includes visualization of major probability distributions such as:
 Normal Distribution to represent data that follows a bell-shaped pattern.
