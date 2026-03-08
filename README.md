@@ -17,6 +17,7 @@ Uniform Distribution where all values have equal probability.
 -Multivariate Analysis is applied to explore interactions among multiple variables simultaneously.
 
 -Several data visualization techniques are used to interpret the dataset effectively:
+
 -Line Plot for analyzing trends over data points.
 -Pair Plot to visualize relationships between multiple variables.
 -Heatmap to represent correlation between variables in a matrix form.
