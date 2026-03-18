@@ -1,27 +1,62 @@
-# Type of Graphs
--This project demonstrates important statistical distributions and data visualization techniques using Python in Google Colab.
+# 📊 Statistical Distributions & Data Visualization Project
 
--The notebook focuses on explaining how different statistical concepts can be understood through graphical representation and visual analysis.
+## 📌 Project Overview  
+This project demonstrates key statistical distributions and data visualization techniques using Python in Google Colab. It focuses on understanding data through graphical representation and exploratory data analysis (EDA), which are essential in data science and machine learning.
 
--It includes visualization of major probability distributions such as:
-Normal Distribution to represent data that follows a bell-shaped pattern.
-Binomial Distribution to model discrete probability outcomes.
-Uniform Distribution where all values have equal probability.
+---
 
--The project also performs Exploratory Data Analysis (EDA) to understand data behavior and patterns.
+## 🚀 Key Features  
 
--Univariate Analysis is used to study the distribution and characteristics of a single variable.
+### 🔹 📈 Statistical Distributions  
+The notebook includes visualization of important probability distributions:  
+- 📊 Normal Distribution (bell-shaped curve)  
+- 🎯 Binomial Distribution (discrete outcomes)  
+- ⚖️ Uniform Distribution (equal probability)  
 
--Bivariate Analysis helps analyze relationships between two variables.
+---
 
--Multivariate Analysis is applied to explore interactions among multiple variables simultaneously.
+### 🔹 🔍 Exploratory Data Analysis (EDA)  
+- Helps understand data patterns and behavior  
+- Identifies trends, distributions, and anomalies  
 
--Several data visualization techniques are used to interpret the dataset effectively:
+---
 
--Line Plot for analyzing trends over data points.
--Pair Plot to visualize relationships between multiple variables.
--Heatmap to represent correlation between variables in a matrix form.
+### 🔹 📊 Types of Analysis  
 
--The project also implements Principal Component Analysis (PCA) to reduce data dimensionality while preserving important information.
+#### 🔸 Univariate Analysis  
+- Analyzes a single variable  
+- Understands distribution and spread  
 
-Overall, this notebook provides a practical introduction to statistical visualization, exploratory data analysis, and dimensionality reduction techniques used in data science and machine learning.
+#### 🔸 Bivariate Analysis  
+- Examines relationship between two variables  
+
+#### 🔸 Multivariate Analysis  
+- Studies interaction among multiple variables  
+
+---
+
+### 🔹 📉 Data Visualization Techniques  
+- 📈 Line Plot → Trend analysis  
+- 🔗 Pair Plot → Relationship between multiple variables  
+- 🔥 Heatmap → Correlation matrix visualization  
+
+---
+
+### 🔹 🧠 Dimensionality Reduction  
+- Implements **Principal Component Analysis (PCA)**  
+- Reduces data dimensions while preserving key information  
+
+---
+
+## 🧠 Technologies Used  
+
+- 🐍 Python  
+- 📊 NumPy  
+- 📋 Pandas  
+- 📈 Matplotlib  
+- 🎨 Seaborn  
+- 🤖 Scikit-learn  
+
+---
+
+
